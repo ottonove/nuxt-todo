@@ -18,3 +18,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+---
+
+[Nuxt.jsを使ってTodoリストを作ってみる | TIPS | BOEL Inc. ボエル](https://www.boel.co.jp/tips/vol107_todoLists-with-Nuxt-js.html)
